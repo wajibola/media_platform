@@ -33,7 +33,7 @@ The `Channel` model has a more complex structure, allowing for relationships wit
 
 **Clean Method for Channel Validation**
 
-* The custom `clean()` method ensures that a `Channel` can either have `contents` or `subchannels`, but not both at the same time. 
+* The custom `clean()` method ensures that a `Channel` can either have `contents` or `subchannels`, but not both at the same time.
 
 **Average Rating Calculation**
 
@@ -123,8 +123,8 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/wajibola/media_platform.git
+   cd media_platform
    ```
 2. **Create a virtual environment and install dependencies:**
 
