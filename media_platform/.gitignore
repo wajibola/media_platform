@@ -13,9 +13,6 @@ __pycache__/
 *.pyo
 *.pyd
 staticfiles/
-media/
 
 # Other system files:
-Dockerfile
-docker-compose.yml
 .git
