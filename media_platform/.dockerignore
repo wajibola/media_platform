@@ -1,0 +1,21 @@
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.venv/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.mo
+*.pyo
+*.pyd
+staticfiles/
+media/
+
+# Other system files:
+Dockerfile
+docker-compose.yml
+.git
