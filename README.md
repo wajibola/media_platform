@@ -1,5 +1,3 @@
-# Immfly Backend Test
-
 This is a **Django-based API** for managing contents, channels, and groups. The project allows users to upload files, manage channels and their contents, filter channels by groups, and calculate content ratings.
 
 ## Features
